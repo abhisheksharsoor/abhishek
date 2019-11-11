@@ -1,0 +1,8 @@
+CONVERT
+You are given a,b and c.You need to convert a to b.
+You can perform following operations :-
+1) Multiply a by c.
+2) Decrease a by 2.
+3) Decrease a by 1.
+You can perform this operation in any order and any number of times.
+You need to find and print minimum number of steps to convert a to b.
