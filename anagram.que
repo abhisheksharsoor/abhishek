@@ -1,0 +1,4 @@
+ANAGRAM
+Write a program to take in two strings as input and to check whether  the input strings are anagrams or not
+INPUT: take in two strings as input
+OUTPUT: print YES is the strings are anagrams else print NO
